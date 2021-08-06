@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="pkg-name">com.vmware.vra85.plug-in.rest.extensibility.samples</entry>
+<entry key="vso-version">8.4.2.18183518</entry>
+<entry key="vso-build-nb">18183518</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vco-app-7c597b44dd-28t98 e9ff166f-ce30-48e6-ac3d-99f3b7f3e7cc</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vco-app-8568fd5cc6-9f62g fd064649-9173-4e17-a1c4-3eb7846f32ff</entry>
+<entry key="used-plugins">VRA#8.5.0,VC#6.5.0,DynamicTypes#1.3.6,REST#2.4.0</entry>
+<entry key="pkg-id">8a7480b97a56b76a017a57f45c2b00d0</entry>
+</properties>
